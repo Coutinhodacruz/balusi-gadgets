@@ -27,8 +27,7 @@ export default function Hero() {
               <br />
               Destination
             </h1>
-
-            {/* Description */}
+            
             <p className="text-lg text-gray-600 max-w-md leading-relaxed">
               Phones, Laptops, AirPods, Smart Watches & more — Brand New & UK Used at unbeatable prices. Quality guaranteed, delivery nationwide.
             </p>
